@@ -1,0 +1,16 @@
+[0m2021.09.14 13:12:33 INFO  Started: Metals version 0.10.6 in workspace '/home/aibody/Documents/portfolio/nucommerce' for client Visual Studio Code 1.60.0.[0m
+[0m2021.09.14 13:12:47 INFO  time: initialize in 14s[0m
+[0m2021.09.14 13:12:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.14 13:12:58 WARN  no build tool detected in workspace '/home/aibody/Documents/portfolio/nucommerce'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.15 12:14:30 INFO  Started: Metals version 0.10.6 in workspace '/home/aibody/Documents/portfolio/nucommerce' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.15 12:14:45 INFO  time: initialize in 14s[0m
+[0m2021.09.15 12:15:01 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.15 12:15:01 WARN  no build tool detected in workspace '/home/aibody/Documents/portfolio/nucommerce'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.21 15:04:08 INFO  Started: Metals version 0.10.7 in workspace '/home/aibody/Documents/portfolio/nucommerce' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.21 15:04:21 INFO  time: initialize in 13s[0m
+[0m2021.09.21 15:04:31 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.21 15:04:31 WARN  no build tool detected in workspace '/home/aibody/Documents/portfolio/nucommerce'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.22 10:55:22 INFO  Started: Metals version 0.10.7 in workspace '/home/aibody/Documents/portfolio/nucommerce' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.22 10:55:45 INFO  time: initialize in 22s[0m
+[0m2021.09.22 10:56:18 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.22 10:56:18 WARN  no build tool detected in workspace '/home/aibody/Documents/portfolio/nucommerce'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
